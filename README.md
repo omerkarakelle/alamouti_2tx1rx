@@ -1,3 +1,7 @@
-# alamouti_2tx1rx
+# Diversity Techniques
 
-Monte Carlo Simulation of Alamouti Space Time Block Code over Rayleigh Channel
+Monte Carlo simulations of some space diversity schemes:
+
+-> Maximal Ratio Combining
+-> Alamouti Space Time Block Code
+-> Cooperative Diversity
